@@ -46,7 +46,7 @@ class App extends Component {
     );
   }
 
-  return = () => (
+  render = () => (
     <>
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
